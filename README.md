@@ -43,8 +43,6 @@
 desarrollo aplicaciones multiplataforma (en curso)
 
 
-Me gusta crear soluciones eficientes, aprender nuevas tecnologías y colaborar en proyectos de código abierto. Actualmente trabajo con [tecnologías principales que usas] y siempre estoy explorando nuevas herramientas para mejorar mis habilidades.
-
 ## 🎓 Acerca de mi
 
 
