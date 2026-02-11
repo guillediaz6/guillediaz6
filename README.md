@@ -25,18 +25,7 @@
 
 ---
 
-## 📊 Mis Estadísticas GitHub
 
-<div align="center">
-
-| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true&langs_count=6) |
-|------------|-------------|
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🎓 Mi Formación
 
