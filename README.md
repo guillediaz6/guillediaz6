@@ -13,7 +13,7 @@
 <!-- Breve introducción y enlaces de contacto -->
 <div align="center">
   <p>
-    👋 ¡Hola! Soy <strong>Guillermo Diaz</strong>, desarrollador de aplicaciones multiplataforma en formación.<br>
+    👋 ¡Hola! Soy <strong>Guillermo Diaz</strong>desarrollador de aplicaciones multiplataforma
     Me encanta crear soluciones eficientes, aprender nuevas tecnologías y colaborar en proyectos de código abierto.
   </p>
   <p>
