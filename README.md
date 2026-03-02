@@ -54,67 +54,21 @@
 
 - 🎓 **Formación:** Desarrollo de Aplicaciones Multiplataforma (en curso).
 - 💡 **Intereses:** Creación de soluciones eficientes, exploración de nuevas tecnologías y colaboración en proyectos de código abierto.
-- 🔭 **Actualmente:** Perfeccionando mis habilidades en Java y JavaScript, y adentrándome en el desarrollo back-end.
-- 🌱 **Próximo objetivo:** Aprender un framework moderno como React o Spring Boot.
-- ⚡ **Dato curioso:** Me encanta el café ☕ y creo que una buena taza es el mejor aliado para programar.
+- 🔭 **Actualmente:** Adentrandome en el mundo de la ciberseguridad.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guillediaz6&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Guillermo"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillediaz6&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Lenguajes más usados por Guillermo"/>
-</div>
 
-<!-- Separador -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Proyectos Destacados
 
-*(Aquí puedes ir añadiendo enlaces a tus repositorios más importantes a medida que los desarrolles)*
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <a href="LINK_AL_REPO_1">
-          <img src="https://via.placeholder.com/150/58A6FF/FFFFFF?text=Proyecto+1" alt="Proyecto 1" width="150">
-          <br>
-          <sub><strong>Nombre del Proyecto 1</strong></sub>
-        </a>
-        <br>
-        <sub>Breve descripción del proyecto.</sub>
-      </td>
-      <td align="center" width="300">
-        <a href="LINK_AL_REPO_2">
-          <img src="https://via.placeholder.com/150/238636/FFFFFF?text=Proyecto+2" alt="Proyecto 2" width="150">
-          <br>
-          <sub><strong>Nombre del Proyecto 2</strong></sub>
-        </a>
-        <br>
-        <sub>Breve descripción del proyecto.</sub>
-      </td>
-      <td align="center" width="300">
-        <a href="LINK_AL_REPO_3">
-          <img src="https://via.placeholder.com/150/F78166/FFFFFF?text=Proyecto+3" alt="Proyecto 3" width="150">
-          <br>
-          <sub><strong>Nombre del Proyecto 3</strong></sub>
-        </a>
-        <br>
-        <sub>Breve descripción del proyecto.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <p>✨ <strong>¡Gracias por visitar mi perfil!</strong> ✨</p>
   <p>Si te ha gustado algún proyecto o quieres colaborar, no dudes en contactarme. ¡Estoy abierto a nuevas oportunidades y aprendizajes!</p>
-  <br>
-  <img src="https://profile-counter.glitch.me/guillediaz6/count.svg?" alt="Contador de visitas" />
+  
+
 </div>
 
 <!-- Footer con efecto de ola (opcional, similar al header) -->
