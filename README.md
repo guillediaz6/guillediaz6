@@ -1,7 +1,7 @@
 <!-- Encabezado con efecto de ola y gradiente dinámico -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Guillermo+Diaz;Desarrollador+Multiplataforma;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Guillermo+Diaz;Desarrollador;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,11 +13,11 @@
 <!-- Breve introducción y enlaces de contacto -->
 <div align="center">
   <p>
-    👋 ¡Hola! Soy <strong>Guillermo Diaz</strong>desarrollador de aplicaciones multiplataforma
+    👋 ¡Hola! Soy <strong>Guillermo Diaz</strong>, desarrollador de aplicaciones multiplataforma.
     Me encanta crear soluciones eficientes, aprender nuevas tecnologías y colaborar en proyectos de código abierto.
   </p>
   <p>
-    <a href="mailto:TU_EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="guillermodiazm13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="LINK_A_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="LINK_A_TU_SITIO_WEB_O_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
   </p>
